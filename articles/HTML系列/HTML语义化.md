@@ -24,4 +24,4 @@
 - details：描述文档或者文档某一部分细节
 - mark：义带有记号的文本。
 
-![image](articles/img/yuyihua.jpg)
+![image](https://raw.githubusercontent.com/zero7room/blog/master/articles/img/yuyihua.jpg)
