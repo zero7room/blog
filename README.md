@@ -8,6 +8,8 @@
 - [正则表达式填字游戏](https://regexcrossword.com)
 - [freecodecamp](https://www.freecodecamp.org/news/)
 
+### JS 系列
+- [Promise/A+ 规范，源码分析](https://github.com/zero7room/MyPromise)
 
 ### 浏览器 系列
 
