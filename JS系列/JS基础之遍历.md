@@ -1,0 +1,11 @@
+- for in
+- for of
+- map
+- flatmap
+- filter
+- some
+- every
+- reduce
+- reduceRight
+- foreach
+
