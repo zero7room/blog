@@ -26,16 +26,10 @@
 - JS DOM事件
 - JS 正则表达式
 - JS 实现一个new操作符
-- JS EventLoop事件循环机制
 - JS 原型和继承
 - JS 实现继承的方式
+- JS EventLoop事件循环机制
 - [JS 基础之异步](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5.md)
-- [JS 基础之异步（一）](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%20%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5%EF%BC%88%E4%B8%80%EF%BC%89.md)
-- [JS 基础之异步（二）](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%20%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9Acallback.md)
-- [JS 基础之异步（三）](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%20%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9APromise%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0.md)
-- [JS 基础之异步（四）](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%20%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9AGenerator%EF%BC%88%E7%94%9F%E6%88%90%E5%99%A8%E3%80%81%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0%EF%BC%89.md)
-- [JS 基础之异步（五）](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%20%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9AGenerator.md)
-- [JS 基础之异步（六）](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%20%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9Aco%20%E5%87%BD%E6%95%B0%E5%BA%93.md)
 - [Promise/A+ 规范，源码分析](https://github.com/zero7room/MyPromise)
 
 ### 浏览器 
