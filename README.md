@@ -26,7 +26,7 @@
 - JS DOM事件
 - JS 正则表达式
 - JS 实现一个new操作符
-- JS 原型和继承
+- JS [原型和继承](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
 - JS 实现继承的方式
 - JS EventLoop事件循环机制
 - [JS 基础之异步](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%BC%82%E6%AD%A5.md)
@@ -38,8 +38,13 @@
 
 ### HTTP原理
 ### Vue源码
+	实现一个简易版的MVVM
+	vue 数据双向绑定原理
+	vue 解析器原理讲解
 ### React源码
 ### webpack配置及性能优化
+	webpack 基本配置及使用
+	webpack 性能优化
 ### Node服务器
 ### 性能优化
 ### 前端设计模式
