@@ -21,7 +21,7 @@
 
 - JS 函数防抖与函数节流
 - JS this上下文
-- JS 实现call、apply、bind
+- [JS 手写call、apply, bind函数和new操作符]()
 - JS 手写ajax
 - JS DOM事件
 - JS 正则表达式
