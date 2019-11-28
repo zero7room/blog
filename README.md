@@ -8,6 +8,8 @@
 - [阮一峰日志](http://www.ruanyifeng.com/blog/)
 - [FEX 技术周刊](http://fex.baidu.com/weekly/)
 
+### vue3.0
+- [爱之初体验-vue3.0](https://github.com/zero7room/vue3-first-experience)
 ### HTML
 - [HTML语义化](articles/HTML系列/HTML语义化.md)
 
