@@ -50,6 +50,7 @@ webpack 性能优化
 ### 性能优化
 ### 前端设计模式
 ### 数据结构与算法
+- [利用贪心递归切蛋糕的小栗子](https://github.com/zero7room/blog/blob/master/articles/%E5%89%8D%E7%AB%AF%E7%AE%97%E6%B3%95/%E5%88%A9%E7%94%A8%E8%B4%AA%E5%BF%83%E9%80%92%E5%BD%92%E5%88%87%E8%9B%8B%E7%B3%95%E7%9A%84%E5%B0%8F%E6%A0%97%E5%AD%90.md)
 ### Node
 ### 服务器
 ### RN
