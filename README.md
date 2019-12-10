@@ -1,4 +1,4 @@
-# 搬砖皮卡丘的学习日志
+# 道格拉斯
 **学习就像搬砖，搬别人的砖，垒自己的墙！**
 ### 欢迎阅读
 &nbsp;&nbsp;&nbsp;&nbsp;这里是搬砖皮卡丘的日志空间，记录一些自认为比较核心的技术和一些优质资源，如果你觉得对你的成长有所帮助，就点一下star吧！
@@ -16,18 +16,12 @@
 ### CSS
 - CSS布局技巧
 - CSS分层理论
-- CSS动画
-
 
 ### JS
 
 - JS 函数防抖与函数节流
 - JS this上下文
 - [JS 手写call、apply, bind函数和new操作符](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/%E6%89%8B%E5%86%99call%E3%80%81apply%2C%20bind%E5%87%BD%E6%95%B0%E5%92%8Cnew%E6%93%8D%E4%BD%9C%E7%AC%A6.md)
-- JS 手写ajax
-- JS DOM事件
-- JS 正则表达式
-- JS 实现一个new操作符
 - JS [原型和继承](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/JS%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
 - JS 实现继承的方式
 - JS EventLoop事件循环机制
