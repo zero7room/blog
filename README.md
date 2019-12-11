@@ -1,7 +1,9 @@
 # 道格拉斯
 **学习就像搬砖，搬别人的砖，垒自己的墙！**
 ### 欢迎阅读
-&nbsp;&nbsp;&nbsp;&nbsp;这里是搬砖皮卡丘的日志空间，记录一些自认为比较核心的技术和一些优质资源，如果你觉得对你的成长有所帮助，就点一下star吧！
+&nbsp;&nbsp;&nbsp;&nbsp;大家我是道格拉斯，记录一些自认为比较核心的技术和一些优质资源，如果你觉得对你的成长有所帮助，就点一下star吧！
+### 更新说明
+&nbsp;&nbsp;&nbsp;&nbsp;因为平常工作比较忙，如果我有时间我会先列出要写的文章标题，等闲置下来会不断更新，非常感谢您有空来阅读！
 ### 学习资源
 - [MDN WEB文档](https://developer.mozilla.org/zh-CN/)
 - [阮一峰ES6入门](http://es6.ruanyifeng.com/)
@@ -19,6 +21,7 @@
 
 ### JS
 
+- 回看小红书之Object的风云往事
 - JS 函数防抖与函数节流
 - JS this上下文
 - [JS 手写call、apply, bind函数和new操作符](https://github.com/zero7room/blog/blob/master/articles/JS%E7%B3%BB%E5%88%97/%E6%89%8B%E5%86%99call%E3%80%81apply%2C%20bind%E5%87%BD%E6%95%B0%E5%92%8Cnew%E6%93%8D%E4%BD%9C%E7%AC%A6.md)
