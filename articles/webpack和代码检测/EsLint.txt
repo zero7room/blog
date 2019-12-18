@@ -1,0 +1,40 @@
+Eslint介绍
+
+中文官网：https://cn.eslint.org/
+eslint-plugin-react: https://www.npmjs.com/package/eslint-plugin-react
+
+Eslint 是一个JavaScript验证工具,有了它可以让你的编辑器像ide一样进行一些静态的错误提示功能.
+安装eslint，二选一
+	全局：
+	npm install eslint -g
+	npm install eslint-plugin-react -g
+	npm install babel-eslint -g
+	
+	项目：
+	npm install eslint --save-dev
+	npm install eslint-plugin-react --save-dev
+	npm install babel-eslint --save-dev
+
+	
+	
+	eslint --init  ，执行这个命令后会在根目录生成配置文件.eslintrc.js，替换.eslintrc.js内容
+
+ESLint规则
+
+包含以下几种配置项：
+	标准规则：包含所有的ESLint规则
+	React版：在标准规则基础上，增加了所有的eslint-plugin-react规则
+
+配置原则：
+	依据以下三条原则，研读ESLint所有配置项，定制出适用的ESLint配置
+		1.能够帮助发现代码错误的规则， 全部开启
+		2.配置不应该依赖于某个具体的项目，而应尽可能的合理
+		3.帮助团队的代码风格统一，而不是限制开发体验
+配置解读：
+	我们对每一条配置，都有详尽的注释，这样不仅方便了我们自己查阅某项配置的意义和原因，也使大家更容易配置出自己心目中的规则：
+	
+	每一条配置都有注释说明此配置的用途
+	对于理解困难的配置，都在注释中有举例
+	对于有争议的配置，都在注释中说明了为什么要这么配置的原因
+	对于关闭掉的配置，都在注释中有对应的原因说明，以及 @off 的标识
+	对于能够 autofix 的配置，都在注释中有标注 @autofix
